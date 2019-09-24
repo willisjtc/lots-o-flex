@@ -1,0 +1,46 @@
+$color-primary: #9d46f9;
+$color-success: #3dc997;
+$color-warning: #ffe255;
+$color-danger: #ef6579;
+$color-info: #3fa4e8;
+
+$color-highlight: #e7efff;
+
+$color-grey-10: #F8F7FC;
+$color-grey-25: #E9E7F7;
+$color-grey-50: #E2DFF4;
+$color-grey-75: #DAD7F1;
+$color-grey-100: #D3CFEE;
+$color-grey-200: #C2BEDC;
+$color-grey-300: #B0ADC9;
+$color-grey-400: #9F9BB7;
+$color-grey-500: #8E8AA5;
+$color-grey-600: #7C7992;
+$color-grey-700: #6B6880;
+$color-grey-800: #59566D;
+$color-grey-900: #48455B;
+
+$root-font-size: 62.5%;
+$root-background-color: #fff;
+
+$base-font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+$base-font-size: 1.4rem;
+$base-font-color: $color-grey-900;
+$base-font-weight: 400;
+$base-line-height: 1.4;
+
+$box-shadow-1: 0 1px 3px rgba($color-grey-900,0.1), 0 1px 2px rgba($color-grey-900,0.12);
+$box-shadow-2: 0 3px 6px rgba($color-grey-900,0.1), 0 3px 6px rgba($color-grey-900,0.11);
+$box-shadow-3: 0 10px 20px rgba($color-grey-900,0.17), 0 6px 6px rgba($color-grey-900,0.11);
+$box-shadow-4: 0 14px 28px rgba($color-grey-900,0.13), 0 10px 10px rgba($color-grey-900,0.10);
+$box-shadow-5: 0 19px 38px rgba($color-grey-900,0.18), 0 15px 12px rgba($color-grey-900,0.10);
+
+$base-border-radius: 0.4rem;
+
+$media1-width: 768px;
+$media2-width: 896px;
+$media3-width: 1024px;
+$media4-width: 1152px;
+$media5-width: 1280px;
+$media6-width: 1408px;
+$media7-width: 1536px;
